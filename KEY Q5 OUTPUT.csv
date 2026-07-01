@@ -1,0 +1,6 @@
+"segment","total_customers","promo_rate_pct","avg_spend","avg_rating","avg_tenure","loyal_a_count","loyal_b_count"
+"High-Value Retainer",288,0.0,77.07,3.33,31.0,0,0
+"Organic Loyalist",600,0.0,62.05,4.38,37.5,600,0
+"Emerging Loyalist",267,10.5,61.70,3.76,3.1,0,15
+"At-Risk Customer",1899,42.3,61.12,3.62,26.6,0,343
+"Promo Hunter",846,100.0,48.60,3.74,19.0,0,0

@@ -1,0 +1,21 @@
+"dimension","value","customers","loyalist_rate_pct","lift"
+"category","Footwear",599,15.7,1.02
+"category","Clothing",1737,15.5,1.01
+"category","Accessories",1240,15.2,0.99
+"category","Outerwear",324,14.8,0.96
+"gender","Female",1248,25.4,1.65
+"gender","Male",2652,10.7,0.69
+"payment_method","Credit Card",671,17.4,1.13
+"payment_method","PayPal",677,16.0,1.04
+"payment_method","Cash",670,15.5,1.01
+"payment_method","Bank Transfer",612,14.7,0.96
+"payment_method","Debit Card",636,14.6,0.95
+"payment_method","Venmo",634,13.9,0.90
+"shipping_type","Standard",654,17.3,1.12
+"shipping_type","Express",646,16.4,1.07
+"shipping_type","2-Day Shipping",627,15.9,1.04
+"shipping_type","Free Shipping",675,14.5,0.94
+"shipping_type","Next Day Air",648,14.4,0.93
+"shipping_type","Store Pickup",650,13.8,0.90
+"subscription","0",2847,21.1,1.37
+"subscription","1",1053,0.0,0.00
