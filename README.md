@@ -63,4 +63,3 @@ Python (Pandas, NumPy) · PostgreSQL · Power BI · Google Colab
 
 ---
 *Synthetic dataset. Independent project — Consulting & Analytics Club, IIT Guwahati.*
-<img width="1895" height="948" alt="image" src="https://github.com/user-attachments/assets/cd908754-6cca-4a63-b480-f4f585191ad0" />
